@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'NanumSquare';
+    src: url('../font/NanumSquareR.eot');
+    src: url('../font/NanumSquareR.eot?#iefix') format('embedded-opentype'),
+        url('../font/NanumSquareR.woff2') format('woff2'),
+        url('../font/NanumSquareR.woff') format('woff'),
+        url('../font/NanumSquareR.ttf') format('truetype'),
+        url('../font/NanumSquareR.svg#NanumSquareR') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    src: url('../font/NanumSquareB.eot');
+    src: url('../font/NanumSquareB.eot?#iefix') format('embedded-opentype'),
+        url('../font/NanumSquareB.woff2') format('woff2'),
+        url('../font/NanumSquareB.woff') format('woff'),
+        url('../font/NanumSquareB.ttf') format('truetype'),
+        url('../font/NanumSquareB.svg#NanumSquareB') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    src: url('../font/NanumSquareL.eot');
+    src: url('../font/NanumSquareL.eot?#iefix') format('embedded-opentype'),
+        url('../font/NanumSquareL.woff2') format('woff2'),
+        url('../font/NanumSquareL.woff') format('woff'),
+        url('../font/NanumSquareL.ttf') format('truetype'),
+        url('../font/NanumSquareL.svg#NanumSquareL') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    src: url('../font/NanumSquareEB.eot');
+    src: url('../font/NanumSquareEB.eot?#iefix') format('embedded-opentype'),
+        url('../font/NanumSquareEB.woff2') format('woff2'),
+        url('../font/NanumSquareEB.woff') format('woff'),
+        url('../font/NanumSquareEB.ttf') format('truetype'),
+        url('../font/NanumSquareEB.svg#NanumSquareEB') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}

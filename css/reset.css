@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* reset CSS */
+html, body, div, span, h1, h2, h3, h4, h5, h6, p, ul, li, table, tbody, thead, tfoot, tr, td, th, header, nav, article, section, aside, footer, object, iframe, pre, abbr, address, video,fieldset,form{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    line-height: 100%;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    outline: none;
+}
+caption, legend {
+    visibility: hidden;
+    width: 0;
+    height: 0;
+    font-size: 0;
+    line-height: 0;
+}
+header, nav, section, article, aside, footer{display: block;}
+html, body{height: 100%; line-height: 100%; font: inherit;}
+ul, ol, li{
+    list-style: none;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+h1, h2, h3, h4, h5, h6, p{font-size: inherit; font-weight: normal; font-style: normal;}
+a{
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+}
+address {
+    font-style: normal;
+}
+/* ----- */
